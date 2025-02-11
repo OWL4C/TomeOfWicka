@@ -62,8 +62,16 @@ namespace TomeOfWicka
             // print button presses to the console window
             this.Monitor.Log($"{Game1.player.Name} pressed {e.Button}.", LogLevel.Debug);
         }
-
-
-        
+        private void ShowConfig(){
+            var context = new
+            {
+                HeaderText = "Example Menu Title",
+                ItemData = ItemRegistry.GetData("(O)117"),
+            };
+                
+            Game1.activeClickableMenu = viewEngine.CreateMenuFromAsset(
+                "Mods/TomeOfWicka/assets/views/config.sml",
+                context);
+        }
     }
 }
