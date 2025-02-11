@@ -9,6 +9,14 @@
   <ItemGroup>
     <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.3.2" />
   </ItemGroup>
-  
+  <ItemGroup>
+    <None Remove="assets\views\config.sml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="assets\views\config.sml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
 
 </Project>

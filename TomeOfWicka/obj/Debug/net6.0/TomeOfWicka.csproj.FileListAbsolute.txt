@@ -6,3 +6,4 @@
 /home/owl/TomeOfWicka/TomeOfWicka/obj/Debug/net6.0/TomeOfWicka.AssemblyInfo.cs
 /home/owl/TomeOfWicka/TomeOfWicka/obj/Debug/net6.0/TomeOfWicka.csproj.CoreCompileInputs.cache
 /home/owl/TomeOfWicka/TomeOfWicka/obj/Debug/net6.0/TomeOfWicka.dll
+/home/owl/TomeOfWicka/TomeOfWicka/bin/Debug/net6.0/assets/views/config.sml
