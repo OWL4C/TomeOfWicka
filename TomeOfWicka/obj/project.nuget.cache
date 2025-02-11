@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sUPEQSt9suSApGrdojvFkjI8MQCcRKXb8z2sykLPIX31HqE4aIsoDyFKT9f580gjXKb1BhQPBA86O8Hxc6Tqlg==",
+  "success": true,
+  "projectFilePath": "/home/owl/TomeOfWicka/TomeOfWicka/TomeOfWicka.csproj",
+  "expectedPackageFiles": [
+    "/home/owl/.nuget/packages/pathoschild.stardew.modbuildconfig/4.3.2/pathoschild.stardew.modbuildconfig.4.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

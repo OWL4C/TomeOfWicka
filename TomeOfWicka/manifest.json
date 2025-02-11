@@ -1,0 +1,10 @@
+{
+    "Name": "TomeOfWicka",
+    "Author": "OWL4C",
+    "Version": "0.0.1",
+    "Description": "Adds an Ingame Book of Forbidden Knowledge from Wiki",
+    "UniqueID": "owl4c.projectwicka",
+    "EntryDll": "TomeOfWicka.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": []
+  }

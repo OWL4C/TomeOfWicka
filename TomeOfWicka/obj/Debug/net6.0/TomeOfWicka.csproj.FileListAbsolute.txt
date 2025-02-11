@@ -1,0 +1,8 @@
+/home/owl/TomeOfWicka/TomeOfWicka/bin/Debug/net6.0/TomeOfWicka.deps.json
+/home/owl/TomeOfWicka/TomeOfWicka/bin/Debug/net6.0/TomeOfWicka.dll
+/home/owl/TomeOfWicka/TomeOfWicka/obj/Debug/net6.0/TomeOfWicka.csproj.AssemblyReference.cache
+/home/owl/TomeOfWicka/TomeOfWicka/obj/Debug/net6.0/TomeOfWicka.GeneratedMSBuildEditorConfig.editorconfig
+/home/owl/TomeOfWicka/TomeOfWicka/obj/Debug/net6.0/TomeOfWicka.AssemblyInfoInputs.cache
+/home/owl/TomeOfWicka/TomeOfWicka/obj/Debug/net6.0/TomeOfWicka.AssemblyInfo.cs
+/home/owl/TomeOfWicka/TomeOfWicka/obj/Debug/net6.0/TomeOfWicka.csproj.CoreCompileInputs.cache
+/home/owl/TomeOfWicka/TomeOfWicka/obj/Debug/net6.0/TomeOfWicka.dll
